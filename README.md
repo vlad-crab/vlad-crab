@@ -10,4 +10,4 @@ I'm looking for commercial development experience and if you're hiring contact m
 
 -Email vladikazakov05@gmail.com
 
-🎮 Hobbies: osu!, science fiction books, gym
+🎮 My hobbies: osu!, science fiction books, gym
