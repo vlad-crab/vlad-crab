@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently looking for commercial development experience and if you're hiring contact me 😉
+I'm looking for commercial development experience and if you're hiring contact me 😉
 
 🌱 I’m currently learning Python, C#, JavaScript, CSS
 
@@ -10,3 +10,4 @@ I'm currently looking for commercial development experience and if you're hiring
 
 -Email vladikazakov05@gmail.com
 
+🎮 Hobbies: osu!, science fiction books, gym
