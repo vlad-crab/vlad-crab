@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm looking for commercial development experience and if you're hiring contact me 😉
-
-🌱 I’m currently learning Python, C#, JavaScript, CSS
+🌱 I’m currently learning Python, C#, JavaScript, nodejs, CSS
 
 📫 How to reach me:
 
