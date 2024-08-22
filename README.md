@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python, C#, JavaScript, nodejs, CSS
+🌱 I’m currently learning Python, C#, nodejs
 
 📫 How to reach me:
 
