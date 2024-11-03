@@ -8,4 +8,4 @@
 
 -Email vladikazakov05@gmail.com
 
-🎮 My hobbies: books of all kinds, gym
+🎮 My hobbies: sci-fiction books, judo & osu!
